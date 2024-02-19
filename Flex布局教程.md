@@ -433,7 +433,7 @@ CSS代码如下。
 }
 </style>
 
-#### 1.6九项目1111111111
+#### 1.6九项目
 
 ```css
 .box {
@@ -462,7 +462,7 @@ CSS代码如下。
 
 
 
-![基本栅格布局](C:\Users\Administrator\Desktop\note_demo_local\assets\grid_layout_1.png)
+![基本栅格布局](.\assets\grid_layout_1.png)
 
 ### 二、网格布局
 
