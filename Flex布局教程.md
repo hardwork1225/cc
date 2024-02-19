@@ -1,3 +1,9 @@
+```css
+.Demo {
+        background: lime;
+    }
+```
+
 参考：
 <a href="https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html">Flex布局教程：语法篇</a>
 <a href="https://www.ruanyifeng.com/blog/2015/07/flex-examples.html">Flex布局教程：实例篇</a>
@@ -435,6 +441,28 @@ CSS代码如下。
   flex-wrap: wrap;
 }
 ```
+
+
+
+<style>
+    .Grid {
+        border: 2px dashed purple;
+    }
+</style>
+<div class="Grid Grid--gutters u-textCenter">
+  <div class="Grid-cell">
+    <div class="Demo" style="background: red;">1/2</div>
+  </div>
+  <div class="Grid-cell">
+    <div class="Demo">1/2</div>
+  </div>
+</div>
+
+
+
+
+
+![基本栅格布局](C:\Users\Administrator\Desktop\note_demo_local\assets\grid_layout_1.png)
 
 ### 二、网格布局
 
