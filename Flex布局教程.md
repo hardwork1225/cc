@@ -462,7 +462,7 @@ CSS代码如下。
 
 
 
-![基本栅格布局](assets/grid_layout_1.png)
+![基本栅格布局](./assets/grid_layout_1.png)
 
 ### 二、网格布局
 
